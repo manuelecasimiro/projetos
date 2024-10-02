@@ -1,0 +1,48 @@
+.principal{
+
+    background-color: #fb8500;
+    display: flex;
+    height: 500px;
+    width: 800px;
+    flex-direction: row;
+
+}
+
+.direita{
+   
+    display: flex;
+    flex-direction: column;
+}
+
+.retangulo-cima{
+    background-color:  #0077b6 ;
+    margin-top: 50px ;
+    margin-bottom: 20px;
+    height: 100px ;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.retangulo-baixo{
+    background-color: #0077b6 ;
+    height: 280px;
+    width: 400px;
+}
+
+.bolinha{
+    background-color: #0077b6;
+    height: 70px;
+    width: 70px;
+    margin: 10px;
+    margin-right: 40px;
+    border-radius: 50%;
+}
+
+.bolas{
+    display: flex;
+    margin-left: 60px;
+
+}
+
+

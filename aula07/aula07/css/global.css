@@ -1,0 +1,30 @@
+body{
+    background-color: #ffafcc;
+}
+.menu{
+    background-color: #fb6f92;
+    height: 200px;
+    width:  200px;
+    color: #feeafa;
+    text-align: center;
+}
+h1 {
+    font-family: 'Scholarly Ambition', sans-serif;
+     width: 200px;                                           
+}
+.principal{
+    background-color: #f4a5ae;
+    height: 200px;
+    width: 200px;
+}   
+
+.info{
+    background-color: #f15bb5;
+    height: 200px;
+    width:  200px;
+}
+.post{
+    background-color: #ffc8dd;
+    height: 200px;
+    width: 200px;
+}

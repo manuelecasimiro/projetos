@@ -1,0 +1,24 @@
+.Menu{
+     display: flex;
+     text-align: center;
+     height: 100px;
+     width: 7000px;
+     background-color: #c8b6ff;
+}
+
+.carousel{
+    display: flex;
+    height: 400px;
+    width: 600px;
+    justify-content: center;
+}
+
+
+.cards{
+display: flex;
+justify-content: center;
+}
+
+body{
+    background-color: #e7c6ff;
+}
