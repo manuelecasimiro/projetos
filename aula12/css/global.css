@@ -1,0 +1,41 @@
+body{
+    background-color: #faedcd;
+}
+
+.imagem{
+    height: 1000px;
+    width: 1900px;
+}
+
+.nav-item{
+   margin-left: 85%; 
+}
+
+.navbar-brand{
+    font-family: 'Destiney', sans-serif;
+    font-size: 40px;
+}
+
+.visitas{
+    font-family: 'Destiney', sans-serif;
+    text-align: center;
+    font-size: 80px;
+}
+
+.carousel{
+    display: flex;
+    height: 200px;
+    width: 800px;
+    justify-content: center;
+}
+
+.visitas2{
+    text-align: center;
+    font-family: 'Destiney', sans-serif;
+    font-size: 50px;
+}
+
+.horarios{
+    text-align: center;
+    font-size: 25px;
+}
